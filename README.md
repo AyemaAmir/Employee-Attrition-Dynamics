@@ -61,6 +61,8 @@ Categorizes employee satisfaction (from "Very Dissatisfied" to "Very Satisfied")
 6. **Performance Prediction**
    - Top predictors of performance: Salary, Tenure, Job Satisfaction, Work-Life Balance.
 
+-> I have attached **"Stats Final Report.pdf"** which is a detailed report of the whole project.
+
 ---
 
 ## 📈 Tools & Techniques Used
