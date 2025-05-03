@@ -84,4 +84,5 @@ Categorizes employee satisfaction (from "Very Dissatisfied" to "Very Satisfied")
 
 ## 📝 License
 
-This project is for academic purposes only.
+This work is licensed for academic demonstration only.
+🚫 Reproduction or reuse without permission is prohibited.
